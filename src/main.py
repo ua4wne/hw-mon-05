@@ -4,7 +4,7 @@ from sentry_sdk.integrations.logging import LoggingIntegration
 import random
 
 sentry_sdk.init(
-    dsn="https://9b515d72451b90ec34510027628b1828@o4508833955184640.ingest.de.sentry.io/4508834262876240",
+    dsn="https://9b515d72451b90ec34510027628b1828@o4508833955184450.ingest.de.sentry.io/4508834262876360",
     # Add data like request headers and IP for users,
     # see https://docs.sentry.io/platforms/python/data-management/data-collected/ for more info
     send_default_pii=True,
